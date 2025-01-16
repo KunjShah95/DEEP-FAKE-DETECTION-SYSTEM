@@ -8,10 +8,12 @@ The DEEP FAKE DETECTION SYSTEM is designed to identify and flag deep fake videos
 Accurate Deep Fake Detection: Utilizes state-of-the-art algorithms to detect deep fakes with high accuracy.
 User-Friendly Interface: Easy to use interface for uploading and analyzing videos.
 Real-Time Analysis: Capable of processing videos in real-time for immediate feedback.
+
 🚀 Future Features
 Enhanced Detection Algorithms: Continuously improving detection accuracy with new algorithms.
 Multi-Language Support: Expanding the system to support multiple languages.
 Mobile Application: Developing a mobile app for on-the-go deep fake detection.
+
 🛠️ Installation
 To get started, clone the repository and install the required dependencies:
 ```
@@ -29,6 +31,7 @@ jupyter notebook
 Open the deep_fake_detection.ipynb file and follow the instructions to upload and analyze videos.
 
 🤝 Contributing
+
 We welcome contributions! Please follow these steps to contribute:
 
 Fork the repository.
@@ -37,6 +40,7 @@ Make your changes.
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/your-feature-name).
 Open a pull request.
+
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
