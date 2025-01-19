@@ -1,8 +1,8 @@
-DEEP FAKE DETECTION SYSTEM - AIMERZ MASTERCLASS 🎭
+DEEP FAKE DETECTION SYSTEM  🎭
 
 
 📜 Description
-The DEEP FAKE DETECTION SYSTEM is designed to identify and flag deep fake videos using advanced machine learning algorithms. This project is part of the AIMERZ Masterclass series, which focuses on providing cutting-edge AI solutions to counter deepfake vuideos and images.
+The DEEP FAKE DETECTION SYSTEM is designed to identify and flag deep fake videos using advanced machine learning algorithms. This project is part of the AI series, which focuses on providing cutting-edge AI solutions to counter deepfake vuideos and images.
 
 ✨ Features
 Accurate Deep Fake Detection: Utilizes state-of-the-art algorithms to detect deep fakes with high accuracy.
@@ -17,8 +17,10 @@ Mobile Application: Developing a mobile app for on-the-go deep fake detection.
 🛠️ Installation
 To get started, clone the repository and install the required dependencies:
 ```
-git clone https://github.com/KunjShah95/DEEP-FAKE-DETECTION-SYSTEM-AIMERZ-MASTERCLASS.git
-cd DEEP-FAKE-DETECTION-SYSTEM-AIMERZ-MASTERCLASS
+git clone https://github.com/KunjShah95/DEEP-FAKE-DETECTION-SYSTEM.git
+
+cd DEEP-FAKE-DETECTION-SYSTEM
+
 pip install -r requirements.txt
 ```
 
